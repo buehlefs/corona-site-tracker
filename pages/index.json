@@ -1,6 +1,11 @@
 {
     "sites": [
-        "test",
-        "test2"
+        "die-einkaufshelfer",
+        "quarantaenehelden",
+        "cert-covid19",
+        "coronajobs",
+        "coronaport",
+        "covapp",
+        "podcast-drosten"
     ]
 }
