@@ -1,5 +1,7 @@
 # corona-site-tracker
 
+Link to page <https://buehlefs.github.io/corona-site-tracker/>
+
 Gather links to helpful websites during the corona virus pandemic.
 
 Goals:
